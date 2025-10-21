@@ -1,3 +1,3 @@
-I am currently an Information Security Intern at TransUnion, specializing in cybersecurity and software development. I’m passionate about combining my knowledge in InfoSec with software development, particularly in C# and .NET. I am also actively working on improving my skills in back-end development to contribute to building secure and efficient digital environments.
-
-In addition to my professional interests, I am passionate about anime, manga, and practicing Jiu-Jitsu. Let’s connect and share knowledge on technology, cybersecurity, and innovation!
+Sou estagiário de Segurança da Informação na TransUnion, com especialização em cibersegurança e desenvolvimento de software. Tenho paixão por combinar meu conhecimento em InfoSec com desenvolvimento, especialmente utilizando C# e .NET. Atualmente, estou aprimorando minhas habilidades em desenvolvimento back-end para contribuir na construção de ambientes digitais seguros e eficientes.
+Recentemente, iniciei um curso de back-end no Senac, que inclui introdução ao HTML, foco em lógica de programação e aprendizado da linguagem PHP, fortalecendo ainda mais minha base técnica.
+Além dos interesses profissionais, sou apaixonado por anime, mangá e pratico Jiu-Jitsu. Vamos nos conectar e compartilhar conhecimento sobre tecnologia, cibersegurança e inovação!
