@@ -1,76 +1,75 @@
-# 👋 Olá, eu sou o Luiz!
+# 👋 Hi, I'm Luiz!
 
-🎓 Estudante de **Back-End Development** e **Segurança da Informação**  
-💼 Estagiário em **Information Security**  
-💻 Focado em **Back-End, lógica de programação, estrutura de dados e segurança de aplicações**
+🎓 Back-End Development student & Information Security student  
+💼 Information Security Intern  
+💻 Focused on Back-End, programming fundamentals, data structures, and application security
 
-Sou apaixonado por tecnologia e aprendizado prático. Tenho experiência acadêmica e profissional trabalhando com **desenvolvimento back-end**, **banco de dados**, **governança de segurança**, **gestão de vulnerabilidades** e **análise de riscos**, sempre buscando escrever código limpo, seguro e bem estruturado.
-
----
-
-## 🚀 Sobre mim
-
-- 📍 Brasil  
-- 🎓 Curso de Back-End – **SENAC**  
-- 🎓 Tecnólogo em **Segurança da Informação**  
-- 💼 Estágio em **Information Security**, com foco em:
-  - Gestão de vulnerabilidades  
-  - Governança e controles de segurança  
-  - Dashboards e indicadores (KPIs)  
-  - Início em **Application Security**
-
-Atualmente, estudo **lógica de programação, estrutura de dados e desenvolvimento back-end**, evitando ficar preso a uma única linguagem, e buscando entender os fundamentos por trás da tecnologia.
+I am passionate about technology and continuous learning. I have both academic and professional experience working with **back-end development**, **databases**, **security governance**, **vulnerability management**, and **risk analysis**, always aiming to build clean, secure, and well-structured solutions.
 
 ---
 
-## 🛠️ Tecnologias & Conhecimentos
+## 🚀 About Me
 
-### 💻 Back-End & Programação
-- PHP
-- C#
-- .NET
-- Programação Orientada a Objetos (POO)
-- Lógica de Programação
-- Estrutura de Dados
-- APIs REST
+- 📍 Based in Brazil  
+- 🎓 Back-End Development – **SENAC**  
+- 🎓 Degree in **Information Security**  
+- 💼 Currently working as an **Information Security Intern**, with a focus on:
+  - Vulnerability Management  
+  - Security Governance and Controls  
+  - Dashboards and Security KPIs  
+  - Getting started with **Application Security**
 
-### 🗄️ Banco de Dados
-- MySQL
-- Modelagem de dados
-- Relacionamentos (1:N, N:N)
-- SQL básico a intermediário
-
-### 🔐 Segurança da Informação
-- Governança e Risk Management
-- Gestão de Vulnerabilidades
-- Application Security (iniciante)
-- Controles, políticas e indicadores de segurança
-
-### ⚙️ Ferramentas
-- Git & GitHub
-- VS Code
-- MySQL Workbench
-- XAMPP
-- Linux (básico)
+I am currently studying **programming logic, data structures, and back-end development**, with a strong focus on fundamentals rather than being tied to a single programming language.
 
 ---
 
+## 🛠️ Skills & Knowledge
 
-## 📈 O que você vai encontrar neste GitHub
+### 💻 Back-End & Programming
+- PHP  
+- C#  
+- .NET  
+- Object-Oriented Programming (OOP)  
+- Programming Logic  
+- Data Structures  
+- RESTful APIs  
 
-- Projetos acadêmicos
-- Exercícios práticos de back-end
-- Estudos de banco de dados
-- Aplicações simples focadas em aprendizado
-- Evolução contínua como desenvolvedor
+### 🗄️ Databases
+- MySQL  
+- Database Modeling  
+- Entity Relationships (1:N, N:N)  
+- SQL (basic to intermediate)
+
+### 🔐 Information Security
+- Security Governance & Risk Management  
+- Vulnerability Management  
+- Application Security (beginner level)  
+- Security Controls, Policies, and Metrics
+
+### ⚙️ Tools
+- Git & GitHub  
+- VS Code  
+- MySQL Workbench  
+- XAMPP  
+- Linux (basic)
 
 ---
 
-## 🌐 Conecte-se comigo
+## 📈 What You'll Find Here
+
+- Academic projects  
+- Back-end practice applications  
+- Database and SQL exercises  
+- Information Security–related studies  
+- Continuous learning and skill evolution
+
+---
+
+## 🌐 Connect with Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/luizit/
 - 🧑‍💻 GitHub: https://github.com/LuizITDev
 
 ---
 
-⭐ *Sempre aberto a aprender, evoluir e colaborar em projetos que envolvam back-end, segurança e tecnologia.*
+⭐ *Always open to learning, growing, and collaborating on projects related to back-end development, security, and technology.*
